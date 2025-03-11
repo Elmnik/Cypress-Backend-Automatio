@@ -1,0 +1,1 @@
+"postCreateCommand": "sudo apt update && sudo apt install -y libgtk-3-0 libx11-x6 libasound2 xvfb"
